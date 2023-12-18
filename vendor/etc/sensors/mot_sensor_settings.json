@@ -1,0 +1,17 @@
+{
+  "chopchop params": {
+      "max_gyro_rotation": 102.0,
+      "max_chop_duration_ms": 350,
+      "first_accel_threshold": 36.0,
+      "second_accel_threshold": 20.0,
+      "min_magnitude_percentage": 0.25,
+      "max_xy_percentage": 0.45,
+      "gyroless": false
+  },
+  "glance params": {
+      "motion_threshold": 0.04,
+      "cool_time": 3000,
+      "gesture_allow": 23,
+      "uncover_timeout": 900
+  }
+}
