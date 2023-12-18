@@ -1,0 +1,12 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=fa52e
+ro.build.version.ci=32
+ro.mot.build.guid=74f13d03703e443
+ro.product.name=kane_reteu
+ro.product.system.name=kane_reteu
+ro.product.product.name=kane_reteu
+ro.mot.build.oem.product=kane_reteu
+ro.mot.build.customerid=retail
+ro.product.device=kane_sprout

@@ -1,0 +1,14 @@
+# user 11 RSA31.Q1-48-36-23 fa52e release-keys
+- manufacturer: motorola
+- platform: erd9610
+- codename: kane_sprout
+- flavor: user
+- release: 11
+- id: RSA31.Q1-48-36-23
+- incremental: fa52e
+- tags: release-keys
+- fingerprint: motorola/kane_retail/kane_sprout:11/RSA31.Q1-48-36-23/fa52e:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-11-RSA31.Q1-48-36-23-fa52e-release-keys
+- repo: motorola_kane_sprout_dump
